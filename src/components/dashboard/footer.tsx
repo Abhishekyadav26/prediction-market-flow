@@ -17,7 +17,7 @@ export function Footer() {
                         </Link>
                         . The source code is available on{" "}
                         <Link
-                            href="https://github.com/Abhishekyadav26/prediction-market-app"
+                            href="https://github.com/Abhishekyadav26/prediction-market-flow"
                             target="_blank"
                             rel="noreferrer"
                             className="font-medium underline underline-offset-4"
@@ -29,7 +29,7 @@ export function Footer() {
                 </div>
                 <div className="flex items-center gap-4">
                     <Link
-                        href="https://github.com/Abhishekyadav26/prediction-market-app"
+                        href="https://github.com/Abhishekyadav26/prediction-market-flow"
                         target="_blank"
                         rel="noreferrer"
                     >
